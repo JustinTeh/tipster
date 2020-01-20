@@ -10,19 +10,18 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/URMG2wJ' title='tipster walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One problem that I ran into was with the tip label and total label. The numbers were being cut off with ellipses if they exceeded two digits. To fix that, I went to the main storyboard and adjusted the label box size. This was an unexpected problem for me because I assumed the number of digits did not matter/ XCode would automatically adjust font size to fit all the digits.
 
 ## License
 
