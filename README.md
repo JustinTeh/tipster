@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/URMG2wJ' title='tipster walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/Rf4DdpG3SzuEh0mApe/giphy.gif' title='tipster walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
